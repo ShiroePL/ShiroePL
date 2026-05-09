@@ -1,66 +1,67 @@
-# 🚀 Hey there, I'm ShiroePL!
+# 👋 yo, I'm Madrus (ShiroePL)
 
-Welcome to my GitHub profile! I'm a versatile developer passionate about building cool stuff with modern technologies.
+Self-taught dev who builds things I actually *use* — an anime/manhwa tracking site, AI assistants with voice, Chrome extensions, and home automation setups. Mostly Python & Flask in the backend, keeping everything running on my own VPS.
 
-## 💻 Tech Stack
+> Currently migrating [EasternTalesShelf](https://github.com/ShiroePL/EasternTalesShelf) to GraphQL + Directus. Living on the edge. 🫠
 
-### Languages & Core Technologies
-[![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://www.python.org/)
-[![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash)](https://www.gnu.org/software/bash/)
+---
 
-### Frontend Development
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
-[![GSAP](https://img.shields.io/badge/GSAP-black?style=for-the-badge&logo=greensock)](https://greensock.com/gsap/)
-[![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io)](https://socket.io/)
+## 🧰 Things I actually work with
 
-### Backend & Databases
-[![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
-[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-black?style=for-the-badge&logo=python)](https://www.sqlalchemy.org/)
-[![MariaDB](https://img.shields.io/badge/MariaDB-black?style=for-the-badge&logo=mariadb)](https://mariadb.org/)
-[![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite)](https://www.sqlite.org/)
+**Languages**
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![Bash](https://img.shields.io/badge/Bash-black?style=flat-square&logo=gnu-bash)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
 
-### DevOps & Infrastructure
-[![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)](https://www.docker.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=github-actions)](https://github.com/features/actions)
-[![Nginx](https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx)](https://nginx.org/)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-black?style=for-the-badge&logo=cloudflare)](https://www.cloudflare.com/)
+**Backend & DBs**
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-black?style=flat-square&logo=python)
+![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
 
-### AI & Machine Learning
-[![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)](https://openai.com/)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-black?style=for-the-badge&logo=huggingface)](https://huggingface.co/)
-[![Azure Speech](https://img.shields.io/badge/Azure_Speech-black?style=for-the-badge&logo=microsoftazure)](https://azure.microsoft.com/en-us/services/cognitive-services/speech-services/)
-[![Claude](https://img.shields.io/badge/Claude-black?style=for-the-badge&logo=anthropic)](https://www.anthropic.com/claude)
+**Infrastructure**
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+![Nginx](https://img.shields.io/badge/Nginx-black?style=flat-square&logo=nginx)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-black?style=flat-square&logo=cloudflare)
+![Oracle VPS](https://img.shields.io/badge/Oracle_VPS_(ARM)-black?style=flat-square&logo=oracle)
 
-### APIs & Data
-[![GraphQL](https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=graphql)](https://graphql.org/)
-[![REST API](https://img.shields.io/badge/REST_API-black?style=for-the-badge&logo=postman)](https://restfulapi.net/)
-[![Scrapy](https://img.shields.io/badge/Scrapy-black?style=for-the-badge&logo=python)](https://scrapy.org/)
-[![Selenium](https://img.shields.io/badge/Selenium-black?style=for-the-badge&logo=selenium)](https://www.selenium.dev/)
-[![Grafana](https://img.shields.io/badge/Grafana-black?style=for-the-badge&logo=grafana)](https://grafana.com/)
+**APIs & Scraping**
+![GraphQL](https://img.shields.io/badge/GraphQL-black?style=flat-square&logo=graphql)
+![AniList API](https://img.shields.io/badge/AniList_API-black?style=flat-square&logo=anilist)
+![Scrapy](https://img.shields.io/badge/Scrapy-black?style=flat-square&logo=python)
 
-### IoT & Mobile
-[![Home Assistant](https://img.shields.io/badge/Home_Assistant-black?style=for-the-badge&logo=homeassistant)](https://www.home-assistant.io/)
-[![ESP8266](https://img.shields.io/badge/ESP8266-black?style=for-the-badge&logo=esphome)](https://esphome.io/)
-[![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android)](https://developer.android.com/)
-[![Wear OS](https://img.shields.io/badge/Wear_OS-black?style=for-the-badge&logo=wearos)](https://wearos.google.com/)
+---
 
-## 🌐 Projects
+## 🗂️ Active projects
 
-I've worked on various projects including:
-- Web applications with Flask and modern frontend technologies
-- DevOps setups for personal environments
-- Discord bots using discord.py
-- AI-powered applications leveraging various LLM providers
-- Data scraping and processing pipelines
-- IoT and mobile applications
+| Project | What it does |
+|---|---|
+| 🌸 **[EasternTalesShelf](https://github.com/ShiroePL/EasternTalesShelf)** | Personal manga/novel library synced with AniList via GraphQL. Flask backend, self-hosted on VPS. |
+| 🤖 **[Cooler-Ai-chan](https://github.com/ShiroePL/Cooler-Ai-chan)** | AI assistant with personality — GPT-powered, voice responses via Azure TTS. Python. |
+| 💾 **[AniList2MariaDB-backup](https://github.com/ShiroePL/AniList2MariaDB-backup)** | Dumps your AniList data into a local MariaDB. Because cloud isn't forever. |
+| 🧩 **[Manhwa-reading-companion](https://github.com/ShiroePL/Manhwa-reading-companion)** | Chrome extension for tracking time spent reading manhwa. |
 
+---
 
+## 📊 GitHub Stats
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShiroePL&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&icon_color=c084fc&title_color=c084fc&text_color=e2e8f0" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiroePL&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=e2e8f0" height="150"/>
+</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShiroePL&style=flat-square&color=blue" alt="Profile views"/>
+---
+
+## 🎨 Also into
+
+- Stable Diffusion art → [DeviantArt](https://www.deviantart.com/madrusss)
+- Home automation with Home Assistant + ESP8266
+- Breaking prod at 2am and calling it a learning experience
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ShiroePL&style=flat-square&color=9333ea" alt="Profile views"/>
 </p>
