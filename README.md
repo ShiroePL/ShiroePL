@@ -1,10 +1,10 @@
 # 👋 yo, I'm Madrus (ShiroePL)
 
-Self-taught dev who builds things I actually *use* — an anime/manhwa tracking site, AI assistants with voice, Chrome extensions, and home automation setups. Mostly Python & Flask in the backend, keeping everything running on my own VPS.
+Self-taught dev who builds things I actually *use* - a manhwa/novel tracking ecosystem, AI assistants with voice, Chrome extensions, and home automation setups. Mostly Python & Flask in the backend, keeping everything running on my own VPS.
 
-> Currently migrating [EasternTalesShelf](https://github.com/ShiroePL/EasternTalesShelf) to GraphQL + Directus. Living on the edge. 🫠
+> Currently building **Tractoon** - a full manhwa reading ecosystem with a Chrome extension hub, time tracking, and cross-source sync. 
 
----
+
 
 ## 🧰 Things I actually work with
 
@@ -38,29 +38,23 @@ Self-taught dev who builds things I actually *use* — an anime/manhwa tracking 
 
 | Project | What it does |
 |---|---|
-| 🌸 **[EasternTalesShelf](https://github.com/ShiroePL/EasternTalesShelf)** | Personal manga/novel library synced with AniList via GraphQL. Flask backend, self-hosted on VPS. |
-| 🤖 **[Cooler-Ai-chan](https://github.com/ShiroePL/Cooler-Ai-chan)** | AI assistant with personality — GPT-powered, voice responses via Azure TTS. Python. |
+| 🦝 **[TrackToon - Manhwa-reading-companion](https://github.com/ShiroePL/TrackToon-Manhwa-Reading-Companion)** | Chrome extension - hub for tracking manhwa reading time, syncing data across sources. Core of the ecosystem. |
+| 🌙 **[moon-reader-hub](https://github.com/ShiroePL/moon-reader-hub)** | Self-hosted Docker stack — syncs reading progress from Moon+ Reader Pro via WebDAV, processes `.mrpro` backups, and serves a Flask reading stats dashboard. Zero cloud, designed for Tailscale/VPN. Python, Flask, SQLite, Caddy. |
+| 🤖 **[Cooler-Ai-chan](https://github.com/ShiroePL/Cooler-Ai-chan)** | Discord bot (discord.py) with personality — chat with LLMs via Groq API & OpenAI, plus fun commands. |
 | 💾 **[AniList2MariaDB-backup](https://github.com/ShiroePL/AniList2MariaDB-backup)** | Dumps your AniList data into a local MariaDB. Because cloud isn't forever. |
-| 🧩 **[Manhwa-reading-companion](https://github.com/ShiroePL/Manhwa-reading-companion)** | Chrome extension for tracking time spent reading manhwa. |
 
----
 
-## 📊 GitHub Stats
+### 🗃️ Archived
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShiroePL&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&icon_color=c084fc&title_color=c084fc&text_color=e2e8f0" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiroePL&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=e2e8f0" height="150"/>
-</p>
-
----
+| Project | Notes |
+|---|---|
+| 🌸 **[EasternTalesShelf](https://github.com/ShiroePL/EasternTalesShelf)** | Old manga/novel library synced with AniList. Superseded by Tractoon ecosystem. |
 
 ## 🎨 Also into
 
 - Stable Diffusion art → [DeviantArt](https://www.deviantart.com/madrusss)
 - Home automation with Home Assistant + ESP8266
-- Breaking prod at 2am and calling it a learning experience
 
----
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ShiroePL&style=flat-square&color=9333ea" alt="Profile views"/>
